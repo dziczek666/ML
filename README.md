@@ -9,4 +9,4 @@ Also made comparison between different methods of variables selection
 
 sklearn, keras 
 
-🎒 Begining of **"deep"** journey
+🎒 Beginning of **"deep"** journey
